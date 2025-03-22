@@ -18,7 +18,7 @@ A TensorFlow-based module for efficient transformation of HEALPix NESTED orderin
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/healpy_nest2grid.git
+git clone https://github.com/reyhandl/healpy_nest2grid.git
 cd healpy_nest2grid
 
 # Install dependencies
